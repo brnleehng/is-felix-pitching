@@ -5,3 +5,9 @@
       background-color: #FEC627;
     }
 
+.pitcher {
+	color: #003263;
+	font-weight: bold;
+	font-size: 180px;
+	text-transform: uppercase;
+}
